@@ -14,6 +14,8 @@ You have to open this project and go to the application and there we have "run" 
 
 Here I added Bibi as a contructor
 
+<img width="381" alt="Screenshot 2024-11-18 at 18 27 45" src="https://github.com/user-attachments/assets/54f27be5-93de-472b-8e9e-9f5b821a4d81">
+
 <img width="381" alt="Screenshot 2024-11-18 at 18 22 54" src="https://github.com/user-attachments/assets/5f130736-be57-4bed-a034-484016cea6b5">
 
-And then I deleted it.
+And then I deleted it with remove button.
