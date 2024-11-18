@@ -1,4 +1,4 @@
-# Employee Manager
+# Employee Management System
 
 ## Description
 A JavaFX application to manage a list of employees and their salaries. The app uses OOP principles with an abstract `Employee` class and its subclasses (`FullTimeEmployee`, `PartTimeEmployee`, `Contractor`) to represent different employee types.
